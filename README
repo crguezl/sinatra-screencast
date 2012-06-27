@@ -5,3 +5,5 @@ install:
    gem install sinatra
    gem install haml
    gem install shotgun
+
+This version conatins the haml templates in the views/ directory
