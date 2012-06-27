@@ -1,0 +1,7 @@
+See:
+  http://screencasts.org/episodes/introduction-to-sinatra
+
+install: 
+   gem install sinatra
+   gem install haml
+   gem install shotgun
