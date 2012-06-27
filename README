@@ -6,4 +6,6 @@ install:
    gem install haml
    gem install shotgun
 
-This version conatins the haml templates in the views/ directory
+1. This version conatins the haml templates in the views/ directory
+
+2. Version with layout file
