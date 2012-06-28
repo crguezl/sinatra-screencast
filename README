@@ -9,3 +9,14 @@ install:
 1. This version conatins the haml templates in the views/ directory
 
 2. Version with layout file
+
+3. Version with variables
+
+= NOTES
+
+With Sinatra, you can create a whole web application that lives in
+one single, solitary ruby file.  Sinatra can use in-file templates.
+In-file templates are added into the space after __END__ where each
+view file is annotated with @@view_name.
+
+
